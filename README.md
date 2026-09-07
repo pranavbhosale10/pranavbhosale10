@@ -59,14 +59,14 @@ Interactive Power BI dashboard analyzing customer purchasing behavior, revenue t
 
 ---
 
-## 🎓 Education & Learning
+## 🎓 Education
 
-**BE – Computer Engineering**
+**Bachelor of Engineering (BE) – Computer Engineering**  
+Sindhudurg Shikshan Prasarak Mandal's College of Engineering, Sindhudurg  
+**CGPA:** 8.62 | **Graduated:** 2026
 
-**NIIT – Applied Data Analytics with GenAI**
-
-`Excel` • `SQL` • `Python` • `Power BI` • `Statistics` • `Machine Learning` • `GenAI`
-
+**NIIT – Applied Data Analytics with GenAI**  
+Hands-on training in Excel, SQL, Python, Power BI, Statistics, Machine Learning and GenAI.
 ---
 
 ## 🎯 Career Interests
